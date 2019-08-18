@@ -1,5 +1,5 @@
 # YouTube-Mockup
-YouTube Mockup App with React and CSS FlexBox. Coded Along with Stephen Grider's Modern React with Redux Course on Udemy.
+YouTube Mockup App with React and CSS FlexBox. Coded along with Stephen Grider in Modern React with Redux Udemy Course (https://www.udemy.com/react-redux/).
 
 Steps:
 
